@@ -5,6 +5,9 @@ extensiones = []
 tamanos = []
 ubicaciones = []
 descripciones = []
+#------------------------------------------#
+#--|menu_principal_agregador_de_archivos|--#
+#------------------------------------------#
 while True:
     print("menu principal agregador de archivos")
     print("1) crear archivo")
